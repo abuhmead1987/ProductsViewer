@@ -1,0 +1,8 @@
+﻿.imgHolder {
+    float: right;
+    margin-left: 50px;
+    margin-right: 0;
+}
+.descHolder p {
+    text-align: right;
+}
